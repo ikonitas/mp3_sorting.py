@@ -1,3 +1,7 @@
+##############################
+##Author: Edvinas Jurevicius##
+##############################
+
 import os
 import shutil
 import eyeD3
